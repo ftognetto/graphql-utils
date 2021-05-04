@@ -4,6 +4,7 @@
   "description": "Common async operations",
   "author": "fabriziotognetto <info@quantos.it>",
   "main": "dist/index.js",
+  "repository": "github:quantosapplications/graphql-utils",
   "scripts": {
     "build": "tsc"
   },
