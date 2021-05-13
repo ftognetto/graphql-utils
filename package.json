@@ -1,6 +1,6 @@
 {
   "name": "@quantos/graphql-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Common async operations",
   "author": "fabriziotognetto <info@quantos.it>",
   "main": "dist/index.js",
